@@ -12,7 +12,6 @@
 Atuo como Analista de Qualidade (QA) na Accenture, acumulando quase 3 anos de experiência em testes de software. Possuo experiência no modelo ágil e também em projetos de metodologia cascata, atuando na leitura de documentação, alinhamento com a equipe funcional, mapeamento e elaboração de cenários, além da execução e evidenciação dos testes. Possuo experiência no uso de ferramentas de gerenciamento de testes, como ALM, JIRA, XRAY e Azure. Vivência profissional nos setores de Telecomunicações e Serviços Financeiros.
 
 
-Você também me encontra em:
                    
  
 
